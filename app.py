@@ -37,7 +37,7 @@ st.set_page_config(
 # CLIENTS
 # ============================================================
 
-@st.cache_resource
+
 def get_hindsight():
     if not HINDSIGHT_API_KEY:
         raise RuntimeError("HINDSIGHT_API_KEY is missing from .env")
