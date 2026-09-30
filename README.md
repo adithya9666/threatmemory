@@ -10,7 +10,7 @@ The analyst remains in control. Every new analyst decision can become future mem
 
 ## 🚀 Live Demo
 
-[Open ThreatMemory](https://threatmemory-f2kdfnwvpefa9isiqucgxv.streamlit.app)
+[Open ThreatMemory](https://threatmemory-bz3vbof9zf2byb2tvm3mdx.streamlit.app/)
 ---
 
 ## The Problem
